@@ -1,6 +1,6 @@
 # Next.js 13.4 Rate limit tutorial
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+You can read and follow the full tutorial here : [nextjs-13-upstash-ratelimite](https://utopia-insights.dev/nextjs-13-upstash-ratelimite/)
 
 ## Getting Started
 
